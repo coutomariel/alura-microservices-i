@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 11 18:02:06 BRT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-4af2-b289-00000644c988 
+on database directory memory:/home/mariel/Documentos/java-workspace/alura/microservices/fornecedor/d3e21a53-a4b8-45c3-970f-d13b2e3c942e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/home/mariel/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.13+8-Ubuntu-0ubuntu1.18.04
+user.dir=/home/mariel/Documentos/java-workspace/alura/microservices/fornecedor
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-166-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
